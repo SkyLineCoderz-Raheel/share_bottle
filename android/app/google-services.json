@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "807131970292",
+    "project_id": "share-bottle-eb888",
+    "storage_bucket": "share-bottle-eb888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807131970292:android:6a0486355ca7a740057ca1",
+        "android_client_info": {
+          "package_name": "com.microprogramer.share_bottle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807131970292-gosapi7trn1ikognvnvbp4r4hm6ha338.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microprogramer.share_bottle",
+            "certificate_hash": "dc46682a40fa4dc0fbf26c3aaab40d1485ea2d84"
+          }
+        },
+        {
+          "client_id": "807131970292-oidnqg167nu2gbubpkrk039rpbj8n3i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microprogramer.share_bottle",
+            "certificate_hash": "a9b445049a2eb3bc3e9a26ad1824ac03e4b576a9"
+          }
+        },
+        {
+          "client_id": "807131970292-k4or52b3f9d9fo55mudf7rvrh80ls87t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-1ffP2v3YIaKjpAH1m342qd1xY_Mr-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807131970292-k4or52b3f9d9fo55mudf7rvrh80ls87t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807131970292-4v8v590o0f31mh88kj72se8d3ktu8v9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.microprogramers.shareBottleAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807131970292:android:3ca87c8c97b56807057ca1",
+        "android_client_info": {
+          "package_name": "com.microprogramers.share_bottle_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807131970292-k4or52b3f9d9fo55mudf7rvrh80ls87t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-1ffP2v3YIaKjpAH1m342qd1xY_Mr-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807131970292-k4or52b3f9d9fo55mudf7rvrh80ls87t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807131970292-4v8v590o0f31mh88kj72se8d3ktu8v9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.microprogramers.shareBottleAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807131970292:android:6f2b2ecde337e98c057ca1",
+        "android_client_info": {
+          "package_name": "org.microprogramers.shareloko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807131970292-54skqloq61siaolsupqn5dte0nt2t14a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.microprogramers.shareloko",
+            "certificate_hash": "dc46682a40fa4dc0fbf26c3aaab40d1485ea2d84"
+          }
+        },
+        {
+          "client_id": "807131970292-k4or52b3f9d9fo55mudf7rvrh80ls87t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-1ffP2v3YIaKjpAH1m342qd1xY_Mr-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807131970292-k4or52b3f9d9fo55mudf7rvrh80ls87t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807131970292-4v8v590o0f31mh88kj72se8d3ktu8v9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.microprogramers.shareBottleAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
